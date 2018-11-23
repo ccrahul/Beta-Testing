@@ -1,3 +1,5 @@
+&&&&&&
+
 #$logfile = "C:\Users\933621\Desktop\logs\log_$(get-date -format `"yyyyMMdd_hhmmsstt`").txt"
 #function log($string)
 #{
