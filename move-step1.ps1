@@ -1,4 +1,6 @@
+Write-Host "This is a branch from Master"
 Write-Host "Added to Phase 1"
+Write-Host "Added to Phase 2"
 
 #$logfile = "C:\Users\933621\Desktop\logs\log_$(get-date -format `"yyyyMMdd_hhmmsstt`").txt"
 #function log($string)
